@@ -5,8 +5,8 @@ QR code scanner is a mobile application where shopkeepers have an app that shows
 API Link : https://drive.google.com/file/d/1uT8kjBAuPtB40QtjxhS5gn9cKag90rBH/view?usp=drivesdk
 
 ## Team members : 
-1.JASIRA T P  -GitHub Id:JASIRAJASI         
-2.SHRAVAN SREEDEEP -GitHub Id:ShravanSreedeep
+1.JASIRA T P  -  GitHub Id:  JASIRAJASI         
+2.SHRAVAN SREEDEEP -  GitHub Id:  ShravanSreedeep
 
 ## How it works :
  Refer the video drive link : https://drive.google.com/file/d/1tmORObpP9kYn-jJMCAiyb03Z8uSy0dAn/view?usp=drivesdk
