@@ -9,14 +9,12 @@ APP Link : https://drive.google.com/file/d/1uT8kjBAuPtB40QtjxhS5gn9cKag90rBH/vie
 2.SHRAVAN SREEDEEP -  GitHub Id:  ShravanSreedeep
 
 ## How it works :
-Refer the video drive link : https://drive.google.com/file/d/1tmORObpP9kYn-jJMCAiyb03Z8uSy0dAn/view?usp=drivesdk
+Please refer the video : https://drive.google.com/file/d/1tmORObpP9kYn-jJMCAiyb03Z8uSy0dAn/view?usp=drivesdk
  
  ## Libraries used :
  package:flutter/material.dart,
- package:gigoapplatest/drawer.dart,
  package:cloud_firestore/cloud_firestore.dart,
  package:firebase_auth/firebase_auth.dart,
- package:gigoapplatest/mreader.dart,
  package:rflutter_alert/rflutter_alert.dart,
  package:flutter_spinkit/flutter_spinkit.dart,
  package:url_launcher/url_launcher.dart,
@@ -25,18 +23,16 @@ Refer the video drive link : https://drive.google.com/file/d/1tmORObpP9kYn-jJMCA
  package:qr_flutter/qr_flutter.dart,
  package:flutter/rendering.dart,
  package:flutter/foundation.dart,
- package:gigoapplatest/screenscaling.dart,
  package:qr_code_scanner/qr_code_scanner.dart,
  package:flutter/widgets.dart
  
  ## How to configure :
  First of all we need to install flutter in our PC. Refer the link for more information about the installation https://flutter.dev/docs/get-started/install/windows .
- Set up a Google Firebase account and download the . .....  file from the new project and set it up in the given folder as shown in the google firebase website. Configure the 
+ Set up a Google Firebase account and download the .json file from the new project and set it up in the given folder as shown in the google firebase website. Configure the 
  build.gradle as given in the google firebase website. 
  
  ## How to run :
- IN order to run the program an android emulator or USB debugging enabled devices to your PC and give the command "flutter run" in command prompt.For generating APK give the 
- command "flutter build apk" and run.
+ In order to run the program an android emulator or USB debugging enabled device should be connected to the computer. Then by giving the command "flutter run" in command prompt athe app will be installed in the connected device/emulator. The apk of the flutter app can be generated using "flutter build apk" command in command prompt. 
       
 
 
