@@ -1,4 +1,4 @@
-# gigoapplatest
+# GIGO APP
 
 A new Flutter project.
 
