@@ -12,21 +12,21 @@ APP Link : https://drive.google.com/file/d/1uT8kjBAuPtB40QtjxhS5gn9cKag90rBH/vie
 Refer the video drive link : https://drive.google.com/file/d/1tmORObpP9kYn-jJMCAiyb03Z8uSy0dAn/view?usp=drivesdk
  
  ## Libraries used :
- package:flutter/material.dart
- package:gigoapplatest/drawer.dart
- package:cloud_firestore/cloud_firestore.dart
- package:firebase_auth/firebase_auth.dart
- package:gigoapplatest/mreader.dart
- package:rflutter_alert/rflutter_alert.dart
- package:flutter_spinkit/flutter_spinkit.dart
- package:url_launcher/url_launcher.dart
- package:rflutter_alert/rflutter_alert.dart
- package:firebase_core/firebase_core.dart
- package:qr_flutter/qr_flutter.dart
- package:flutter/rendering.dart
- package:flutter/foundation.dart
- package:gigoapplatest/screenscaling.dart
- package:qr_code_scanner/qr_code_scanner.dart
+ package:flutter/material.dart,
+ package:gigoapplatest/drawer.dart,
+ package:cloud_firestore/cloud_firestore.dart,
+ package:firebase_auth/firebase_auth.dart,
+ package:gigoapplatest/mreader.dart,
+ package:rflutter_alert/rflutter_alert.dart,
+ package:flutter_spinkit/flutter_spinkit.dart,
+ package:url_launcher/url_launcher.dart,
+ package:rflutter_alert/rflutter_alert.dart,
+ package:firebase_core/firebase_core.dart,
+ package:qr_flutter/qr_flutter.dart,
+ package:flutter/rendering.dart,
+ package:flutter/foundation.dart,
+ package:gigoapplatest/screenscaling.dart,
+ package:qr_code_scanner/qr_code_scanner.dart,
  package:flutter/widgets.dart
  
  ## How to configure :
