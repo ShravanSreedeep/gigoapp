@@ -27,7 +27,9 @@ Please refer the video : https://drive.google.com/file/d/1tmORObpP9kYn-jJMCAiyb0
  package:flutter/widgets.dart
  
  ## How to configure :
- First of all we need to install flutter in our PC. Refer the link for more information about the installation https://flutter.dev/docs/get-started/install/windows .
+ First of all we need to install flutter in our PC. Refer the link for more information regarding the installation of flutter:
+ https://flutter.dev/docs/get-started/install/windows .
+ 
  Set up a Google Firebase account and download the .json file from the new project and set it up in the given folder as shown in the google firebase website. Configure the 
  build.gradle as given in the google firebase website. 
  
