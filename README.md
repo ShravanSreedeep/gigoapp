@@ -34,7 +34,7 @@ Please refer the video : https://drive.google.com/file/d/1tmORObpP9kYn-jJMCAiyb0
  build.gradle as given in the google firebase website. 
  
  ## How to run :
- In order to run the program an android emulator or USB debugging enabled device should be connected to the computer. Then by giving the command "flutter run" in command prompt athe app will be installed in the connected device/emulator. The apk of the flutter app can be generated using "flutter build apk" command in command prompt. 
+ In order to run the program an android emulator or USB debugging enabled device should be connected to the computer. Then by giving the command "flutter run" in command prompt and the app will be installed in the connected device/emulator. The apk of the flutter app can be generated using "flutter build apk" command in command prompt. 
       
 
 
