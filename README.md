@@ -2,7 +2,7 @@
 
 Gigo app is a mobile application where shopkeepers have an app that shows QR code and users can scan this QR code which will automatically add that user to the visitor list. This should replace manual entry of contact details in the shop and make the process contactless.
 
-<img src="gigo_images/Main.png" width=100 height=300>
+<img src="gigo_images/Main.png" width=100 height=250>
 <img src="gigo_images/Login.png">
 <img src="gigo_images/Registration.png">
 <img src="gigo_images/Scanner.png">
